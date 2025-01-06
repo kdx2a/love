@@ -45,6 +45,7 @@ enum BlendMode // High level wrappers. Order is important (see renderstate.cpp)
 	BLEND_DARKEN,
 	BLEND_SCREEN,
 	BLEND_REPLACE,
+	BLEND_INVERT,
 	BLEND_NONE,
 	BLEND_CUSTOM,
 	BLEND_MAX_ENUM
